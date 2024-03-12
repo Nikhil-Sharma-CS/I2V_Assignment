@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "73qyDmTZTYGjF//P/kq1sGvsivWRqNJqTz9ZTq/r9B1JM3ZKOzVSVQzl4FI9jRoOcdUrvPSV0YCXFn/g3jD/ng==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nikhil\\Desktop\\I2V Assignment\\i2v_dotnet_angular_test\\Test_DotNet\\Test_DotNet.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nikhil\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Nikhil\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Nikhil\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\Nikhil\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\Nikhil\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\Nikhil\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
