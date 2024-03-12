@@ -10,8 +10,7 @@ Before you begin, make sure you have the following installed on your machine:
 - .Net 5 SDK
 - Node.js and npm
 - Angular CLI
-
-You might encounter runtime, compilation and logical error. So you need to fix therm as you go.
+- Additionally you need to have proper versions of these techs.
 
 ## Setting up the DotNet API
 
@@ -34,11 +33,12 @@ If you are unable to set up the angular application, you can use the tools like 
 1. Open a browser and navigate to `http://localhost:4200/`, the Angular application should be displayed, Navigate to `Hash` tab.
 2. Enter your `first name` in the input field on the Angular application
 3. Click the `Generate Hash` button. If the dotnet API is running correctly, and the logic is correct, the hash value should be displayed below the button.
-4. Ex: If you enter `archit` in the input field, the hash value should be `92A1B1799146E7EBE480694175806E3A01755A84D9F316B807D7D9C6280FE6B8` for the name `John` as per the correct logic to be.
+4. Ex: If you enter `nikhil` in the input field, the hash value should be `D61D2A3588DC176C0476EC4BCE6BE1FBCCCFA99949F223591DEF2A2D13617BC0`.
 5. The hash value for the name should be displayed below the button. Copy the hash value.
 
 ### Paste the hash value Here in the readme file: 
-___
+
+D61D2A3588DC176C0476EC4BCE6BE1FBCCCFA99949F223591DEF2A2D13617BC0
 
 ## Troubleshooting
 
